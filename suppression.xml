@@ -23,6 +23,11 @@
         <cve>CVE-2023-22551</cve>
     </suppress>
 
+    <suppress>
+        <notes>kafka-connect-azure-datalake-assembly-7.4.6.jar</notes>
+        <cve>CVE-2024-7254</cve>
+    </suppress>
+
     <!-- Azure Datalake module has a lot of false positives identified by the OWASP tool -->
     <suppress>
         <notes><![CDATA[
