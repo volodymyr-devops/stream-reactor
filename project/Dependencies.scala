@@ -52,7 +52,7 @@ object Dependencies {
 
     val http4sVersion    = "1.0.0-M32"
     val http4sJdkVersion = "1.0.0-M1"
-    val avroVersion      = "1.11.4"
+    val avroVersion      = "1.12.0"
     val avro4sVersion    = "4.1.2"
 
     val catsEffectVersion     = "3.5.4"
@@ -73,7 +73,7 @@ object Dependencies {
 
     val dnsJavaVersion  = "3.6.1"
     val wiremockVersion = "3.9.1"
-    val parquetVersion  = "1.14.1"
+    val parquetVersion  = "1.15.2"
 
     val jerseyCommonVersion = "3.1.8"
 
